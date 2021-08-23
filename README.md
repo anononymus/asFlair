@@ -12,7 +12,7 @@ from flair.data import  Sentence, Token
 
 # Load the tagger
 
-model = SequenceTagger.load('final-model.pt')
+model = SequenceTagger.load('AsFlair.pt')
 
 #  create example sentence
 sen='ভাৰতীয় পেচ বলাৰ জৱাগল শ্রীনাথে আক্রমণ কৰিবলৈ আৰম্ভ কৰি প্রথম বলটোতেই শ্রীলংকাপেনাৰ ৰমেশ কালুৱিথার্ণাক পেভিলিয়নলৈ পঠিয়াইছিল ৷'
