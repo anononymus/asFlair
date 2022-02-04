@@ -1,5 +1,5 @@
 # AsFlair
-AsFlair: A Parts of Speech tagger for Assamse using BiLSTM-CRF architecture
+AsFlair: A Parts of Speech tagger for Assamse using BiLSTM-CRF architecture. The model achieves F1 score of 73.26% in Assamese POS tagging.
 
 This repository contains pre-trained model for Assamese POS tagging based on BiLSTM-CRF architecture
 ## How to run
