@@ -7,7 +7,7 @@
 This repository contains a pre-trained model for Assamese POS tagging based on BiLSTM-CRF architecture and AsFlair Embedding.
 ## How to run
 
-Download the pre-trained model from the [link] (https://drive.google.com/file/d/1MC7mVOguotsPEnpLiL20ag97O7siMqvU/view?usp=sharing)
+Download the pre-trained model [link](https://drive.google.com/file/d/1MC7mVOguotsPEnpLiL20ag97O7siMqvU/view?usp=sharing)
 
 ```
 from flair.models import SequenceTagger
@@ -27,4 +27,4 @@ print(sentence.to_tagged_string())
 
 ```
 
-<!-- Assamese monolingual corpus (23 Million) - [Download] (https://drive.google.com/file/d/1sA5qEwD-Fadh3dIB1ADcK3m1yfWb8i_l/view?usp=sharing) -->
+<!-- Assamese monolingual corpus (23 Million) - [Download](https://drive.google.com/file/d/1sA5qEwD-Fadh3dIB1ADcK3m1yfWb8i_l/view?usp=sharing) -->
