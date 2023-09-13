@@ -4,7 +4,7 @@
 
 ## Sequence model trained using AsFlair embedding
 
-This repository contains pre-trained model for Assamese POS tagging based on BiLSTM-CRF architecture
+This repository contains pre-trained model for Assamese POS tagging based on BiLSTM-CRF architecture and AsFlair Embedding.
 ## How to run
 
 Download the pre-trained model from the link- https://drive.google.com/file/d/1MC7mVOguotsPEnpLiL20ag97O7siMqvU/view?usp=sharing
